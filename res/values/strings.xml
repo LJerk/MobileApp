@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Helper hand</string>
+    <string name="action_settings">Settings</string>
+    <string name="access_token">pk.eyJ1IjoibGplcmtqIiwiYSI6ImNrNWZvN3p0ZDBzdzAzZm1jOHF1eWN3Mm4ifQ.ztCHIPyU0n57sZOARTGFTA</string>
+    <string name="profile">Профиль</string>
+    <string name="map">Карта</string>
+    <string name="cash">Помощь проекту</string>
+    <string name="support">Служба поддержки</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="phonenumber">+7(953)584 24 21</string>
+    <string name="Name">Вася Буйный</string>
+    <string name="tracking_enabled">tracking_enabled</string>
+    <string name="tracking_already_enabled">tracking_already_enabled</string>
+    <string name="current_location">current_location</string>
+    <string-array name="helpa">
+        <item>Как пользоваться эти приложением</item>
+        <item>Всё очень просто! Создавайте заявки если вам нужно что то продать, или звоните по указанным номерам если что-то нужно купить!</item>
+    </string-array>
+
+</resources>

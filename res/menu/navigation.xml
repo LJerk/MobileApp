@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="Helper.hand.MainActivity">
+
+    <item
+        android:id="@+id/map"
+        android:icon="@android:drawable/ic_menu_myplaces"
+        android:orderInCategory="1"
+        android:title="@string/map"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/profile"
+        android:icon="@android:drawable/ic_menu_gallery"
+        android:orderInCategory="1"
+        android:title="@string/profile"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/cash"
+        android:icon="@android:drawable/star_big_on"
+        android:orderInCategory="1"
+        android:title="О нас"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/support"
+        android:icon="@android:drawable/stat_sys_headset"
+        android:orderInCategory="1"
+        android:title="@string/support"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/exit"
+        android:layout_marginTop="20dp"
+        android:icon="@android:drawable/ic_delete"
+        android:orderInCategory="1"
+        android:title="Выход"
+        app:showAsAction="never" />
+
+
+</menu>
